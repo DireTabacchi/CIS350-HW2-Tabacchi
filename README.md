@@ -9,4 +9,4 @@ I have written a simple web-server in C/C++ to process simple HTTP requests.
 I have some web-development experience, with HTML, CSS, and JavaScript.
 I have built a simple voltmeter on a breadboard with an analog-to-digital converter chip (ADC0809) and an Arduino MEGA 2560, programmed in Assembly for the ATmega2560 8-bit microcontroller.
 
-[Bugs](https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg)
+![Bugs](https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg)
